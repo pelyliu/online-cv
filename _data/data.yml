@@ -63,26 +63,26 @@ sidebar:
 #             - 身体倍棒
 #             - 吃嘛嘛香
 
-# experiences:
-#     title: 职业经历/实习经历
-#     info:
-#       - role: 幼儿园老师
-#         time: 2019 - Present
-#         company: 翻斗幼儿园, 北京
-#         details: |
-#           介绍你的工作情况，可以包括具体承担的工作内容、学习掌握的相关技能等。
+experiences:
+    title: 日常性工作
+    info:
+      - role: 主持每周部长例会
+        time: 2019 - Present
+        company: 翻斗幼儿园, 北京
+        details: |
+          介绍你的工作情况，可以包括具体承担的工作内容、学习掌握的相关技能等。
 
-#       - role: 坠机驾驶员
-#         time: 2014 - 2015
-#         company: GUTS, Chiba-ken
-#         details: |
-#           介绍你的工作情况，可以包括具体承担的工作内容、学习掌握的相关技能等。
+      - role: 按期整理工作情况上报校团委
+        time: 2014 - 2015
+        company: GUTS, Chiba-ken
+        details: |
+          介绍你的工作情况，可以包括具体承担的工作内容、学习掌握的相关技能等。
 
-#       - role: 美术生助理
-#         time: 1931 - 1945
-#         company: Berlin, German
-#         details: |
-#           介绍你的工作情况，可以包括具体承担的工作内容、学习掌握的相关技能等。
+      - role: 美术生助理
+        time: 1931 - 1945
+        company: Berlin, German
+        details: |
+          介绍你的工作情况，可以包括具体承担的工作内容、学习掌握的相关技能等。
 
 certifications:
       title: 代表性工作
@@ -108,18 +108,50 @@ certifications:
             独立完成学院AI助手 SCST AI bot 的开发和上线工作，实现了推送制作、新闻稿撰写、活动方案设计和相关内容审核工作的智能化，上线以来累计处理请求 **2494** 次，初步提出 **AI+学生组织** 概念。
 
 projects:
-    title: 品牌活动
+    title: 活动参与度
     intro: >
-      在这里罗列你参与过的项目经历。
+      
 
     assignments:
-      - title: 品牌食品加工
+      - title: 秋季运动会
         link: "#"
-        tagline: "主要负责给苏打饼干扎眼儿、给趣多多点巧克力豆。"
+        tagline: "方阵成员 & 后勤服务 & 会场服务"
 
-      - title: 拾忆
+      - title: “一二·九”合唱
         link: "#"
-        tagline: "面向博物馆、档案馆提供AI+人工的影像精修服务。"
+        tagline: "男高声部"
+      
+      - title: “两弹一星”话剧
+        link: "#"
+        tagline: "钱三强扮演者 & 后勤服务"
+      
+      - title: 学生代表大会
+        link: "#"
+        tagline: "材料整理汇总 & 学生代表"
+
+      - title: “五月的鲜花”文艺汇演
+        link: "#"
+        tagline: "后勤服务 & 现场服务"
+      
+      - title: IT义务维修
+        link: "#"
+        tagline: "“创益家”团队负责人 取得学校教育基金会支持"
+
+      - title: 宿舍小讲堂
+        link: "#"
+        tagline: "策划 & 现场服务 & 主讲人"
+      
+      - title: 春分工程科普团队
+        link: "#"
+        tagline: "团队组建 & 内容审核 & 科普摊位工作"
+      
+      - title: 春分工程百科词条
+        link: "#"
+        tagline: "团队负责人"
+      
+
+      
+
 
 
 publications:
@@ -143,27 +175,27 @@ publications:
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-    title: 技能
+# skills:
+#     title: 技能
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+#     toolset:
+#       - name: Python & Django
+#         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+#       - name: Javascript & jQuery
+#         level: 98%
 
-      - name: Angular
-        level: 98%
+#       - name: Angular
+#         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+#       - name: HTML5 & CSS
+#         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+#       - name: Ruby on Rails
+#         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+#       - name: Sketch & Photoshop
+#         level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="https://pyxblog.cn/" target="_blank" rel="nofollow">清弦.</a>
