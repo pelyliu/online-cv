@@ -258,6 +258,10 @@ publications:
       - title: 组建百科词条大模型研发团队
         link: "#"
         authors: 2024/03
+
+      - title: 参与怀柔三小科技节
+        link: "#"
+        authors: 2024/05
       
       - title: 学生会仓库整理
         link: "#"
@@ -299,4 +303,4 @@ publications:
 #         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="https://pyxblog.cn/" target="_blank" rel="nofollow">清弦.</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="https://aboutpyx.cn/" target="_blank" rel="nofollow">清弦.</a>
