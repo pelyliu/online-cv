@@ -1,228 +1,132 @@
 #
-# Be aware that even a small syntax error here can lead to failures in output.
+# 简历中的所有内容基本都在这里修改
+# 有不想要的地方可以空着，但是不要随意删除
+# 有什么问题可以联系微信pyx2466079565
 #
 
+##### 边栏开始 #####
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False  # 用于"教育背景"栏目所处位置的设置False表示在主栏，True表示在侧边栏
 
-    # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    # 基本信息
+    name: 庞宇轩  # 你的姓名
+    tagline: 学生会主席团成员 # 姓名下方的小字，一句话介绍自己，可以是座右铭/求职目标（算法工程师）/
+    avatar: avatar.jpeg  # 将你头像图片放在assets/images中，然后将文件名填在这里，注意要带后缀，如.jpeg/.png等
 
-    # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
-
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+    # 以下内容如果自己没有可以在该行的最前面添加"#"，将其注释掉
+    email: cnicpyx@gmail.com
+    phone: 18554851930
+    website: pyxblog.cn  # 个人主页链接，前面不要添加http://
+    github: cnicpyx  # GitHub用户名
+#    stack-overflow: # Number/Username, e.g. 123456/alandoe
+#    pdf:   # 如果有pdf版的简历，可以在这里放简历的下载链接，或者直接放 {https://你的简历页面}/print
 
     interests:
-      title: Interests
+      title: 竞选类别
       info:
-        - item: Climbing
+        - item: 优秀学生干部
           link:
+        # - item: 编程
+        #   link:
+        # - item: 画饼
+        #   link:
+##### 边栏结束 #####
 
-        - item: Snowboarding
-          link:
 
-        - item: Cooking
-          link:
+##### 主栏开始 #####
+# career-profile:
+#     title: 生涯概况
+#     summary: |
+#       在这里概括你的职业生涯经历，可以使用markdown语法，如使用`**加粗**`来**加粗文字**，使用
+#       `[文字](链接)`来给[文字](链接)添加超链等。
 
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-education:
-    title: Education
-    info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+#       如需换行，请 **连换两行**。
 
-experiences:
-    title: Experiences
-    info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+# education:
+#     title: 教育经历
+#     info:
+#       - degree: 计算机技术
+#         university: 中国科学院大学
+#         time: 2023 - 2026
+#         details: |
+#           在这里展开你的教育经历，可以包括你的成绩情况/排名情况/专业课程等，可以使用
+#           `{}{}- 分条`来实现分条叙述，样式如下：
+#             - 身体倍棒
+#             - 吃嘛嘛香
+
+#       - degree: 广播电视工程
+#         university: 中国传媒大学
+#         time: 2019 - 2023
+#         details: |
+#           在这里展开你的教育经历，可以包括你的成绩情况/排名情况/专业课程等，可以使用
+#           `{}{}- 分条`来实现分条叙述，样式如下：
+#             - 身体倍棒
+#             - 吃嘛嘛香
+
+# experiences:
+#     title: 职业经历/实习经历
+#     info:
+#       - role: 幼儿园老师
+#         time: 2019 - Present
+#         company: 翻斗幼儿园, 北京
+#         details: |
+#           介绍你的工作情况，可以包括具体承担的工作内容、学习掌握的相关技能等。
+
+#       - role: 坠机驾驶员
+#         time: 2014 - 2015
+#         company: GUTS, Chiba-ken
+#         details: |
+#           介绍你的工作情况，可以包括具体承担的工作内容、学习掌握的相关技能等。
+
+#       - role: 美术生助理
+#         time: 1931 - 1945
+#         company: Berlin, German
+#         details: |
+#           介绍你的工作情况，可以包括具体承担的工作内容、学习掌握的相关技能等。
 
 certifications:
-      title: Certifications
+      title: 代表性工作
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
+        - name: 2023年度优秀学生会组织
+          start: 
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          organization: 
+#          credentialid: 111-222  # 好像是证书编号
+          credentialurl: 
+          credentialname: 
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+          作为学生会主席，带领学生会获评2023年度优秀学生会组织，代表学院前往中国科学院西安光学精密器械研究所参与国科大学生会组织交流工作会议。
+            
+
+        - name: 国科大计算机学院AI助手
+          start: 
+          end: 
+          organization: 
+          credentialurl: 
+          credentialname: 
+          details: |
+          独立完成学院AI助手 [SCST AI bot](https://www.scstai.chat/#/chat) 的开发和上线工作，实现了推送制作、新闻稿撰写、活动方案设计和相关内容审核工作的智能化，上线以来累计处理请求 **2494** 次，初步提出 **AI+学生组织** 概念。
 
 projects:
-    title: Projects
+    title: 项目经历
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      在这里罗列你参与过的项目经历。
+
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: 品牌食品加工
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "主要负责给苏打饼干扎眼儿、给趣多多点巧克力豆。"
 
-      - title: Tempo
+      - title: 拾忆
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "面向博物馆、档案馆提供AI+人工的影像精修服务。"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: 发表论文
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      在此列举你的学术成果或其他出版物/可以通过链接访问的成果。
+
     papers:
       - title: The Art of Computer Programming
         link: "#"
@@ -240,7 +144,7 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: 技能
 
     toolset:
       - name: Python & Django
@@ -262,4 +166,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="https://pyxblog.cn/" target="_blank" rel="nofollow">清弦.</a>
