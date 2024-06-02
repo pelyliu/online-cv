@@ -67,27 +67,27 @@ experiences:
     title: 日常性工作
     info:
       - role: 主持每周部长例会
-        time: 2019 - Present
-        company: 翻斗幼儿园, 北京
+        time: 
+        company: 学园二-456 每周一(春季)/周四(秋季) 下午
         details: |
-          介绍你的工作情况，可以包括具体承担的工作内容、学习掌握的相关技能等。
+          
 
       - role: 按期整理工作情况上报校团委
-        time: 2014 - 2015
-        company: GUTS, Chiba-ken
+        time: 
+        company: ~~其实春季学期好像已经不怎么要求了~~
         details: |
-          介绍你的工作情况，可以包括具体承担的工作内容、学习掌握的相关技能等。
+          
 
-      - role: 美术生助理
-        time: 1931 - 1945
-        company: Berlin, German
+      - role: 担任螺丝钉
+        time: 
+        company: wherever I'm needed
         details: |
-          介绍你的工作情况，可以包括具体承担的工作内容、学习掌握的相关技能等。
+          
 
 certifications:
       title: 代表性工作
       list:
-        - name: 2023年度优秀学生会组织
+        - name: 获评2023年度优秀学生会组织
           start: 
           end:
           organization: 
@@ -98,14 +98,14 @@ certifications:
             作为学生会主席，带领学生会获评2023年度优秀学生会组织，代表学院前往中国科学院西安光学精密器械研究所参与国科大学生会组织交流工作会议。
             
 
-        - name: 国科大计算机学院AI助手
+        - name: 开发国科大计算机学院AI助手
           start: 
           end: 
           organization: 
           credentialurl: 
           credentialname: 
           details: |
-            独立完成学院AI助手 SCST AI bot 的开发和上线工作，实现了推送制作、新闻稿撰写、活动方案设计和相关内容审核工作的智能化，上线以来累计处理请求 **2494** 次，初步提出 **AI+学生组织** 概念。
+            独立完成学院AI助手 (SCST AI bot)[https://www.scstai.chat/#/chat] 的开发和上线工作，实现了推送制作、新闻稿撰写、活动方案设计和相关内容审核工作的智能化，上线以来累计处理请求 **2494** 次，初步提出 **AI+学生组织** 概念。
 
 projects:
     title: 活动参与度
@@ -115,11 +115,11 @@ projects:
     assignments:
       - title: 秋季运动会
         link: "#"
-        tagline: "方阵成员 & 后勤服务 & 会场服务"
+        tagline: "开幕式方阵成员 & 后勤服务 & 会场服务"
 
       - title: “一二·九”合唱
         link: "#"
-        tagline: "男高声部"
+        tagline: "男高声部成员"
       
       - title: “两弹一星”话剧
         link: "#"
@@ -127,7 +127,11 @@ projects:
       
       - title: 学生代表大会
         link: "#"
-        tagline: "材料整理汇总 & 学生代表"
+        tagline: "学院材料整理 & 参会学生代表"
+      
+      - title: 元旦晚会
+        link: "#"
+        tagline: "活动设计 & 后勤服务 & 现场服务"
 
       - title: “五月的鲜花”文艺汇演
         link: "#"
@@ -135,45 +139,64 @@ projects:
       
       - title: IT义务维修
         link: "#"
-        tagline: "“创益家”团队负责人 取得学校教育基金会支持"
+        tagline: "“创益家”团队负责人 取得学校教育基金会30,000经费支持"
 
       - title: 宿舍小讲堂
         link: "#"
-        tagline: "策划 & 现场服务 & 主讲人"
+        tagline: "活动设计 & 现场服务 & 第十八期主讲人"
       
-      - title: 春分工程科普团队
+      - title: 春分工程科普
         link: "#"
-        tagline: "团队组建 & 内容审核 & 科普摊位工作"
+        tagline: "团队组建 & 内容创作与审核 & 科普摊位工作"
       
-      - title: 春分工程百科词条
+      - title: 春分工程百科词条项目
         link: "#"
         tagline: "团队负责人"
       
-
       
-
 
 
 publications:
     title: 其他工作
     intro: |
-      在此列举你的学术成果或其他出版物/可以通过链接访问的成果。
+      
 
     papers:
-      - title: The Art of Computer Programming
+      - title: 计算机学院“开学第一课”现场服务
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: 2023/09
+        conference: 
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: 第一次学生会全体会议组织与ppt制作
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: 2023/09
+        conference: 
 
-      - title: A syntax directed compiler for Algol 60
+      - title: 组织学生参与国庆升旗观礼
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: 2023/10
+      
+      - title: 作为学生代表和场务参与党委巡察座谈会
+        link: "#"
+        authors: 2023/10
+      
+      - title: 作为学生代表参与师生下午茶
+        link: "#"
+        authors: 2023/10
+      
+      - title: “爱在果壳”讲座现场服务
+        link: "#"
+        authors: 2023/10
+      
+      - title: 代表学院春分工程团队参与雁栖镇科普嘉年华
+        link: "#"
+        authors: 2023/10
+      
+      - title: 代表学院春分工程团队参与中关村一小科技节
+        link: "#"
+        authors: 2023/10
+      
+      
 
 # skills:
 #     title: 技能
