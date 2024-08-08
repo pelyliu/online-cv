@@ -96,57 +96,54 @@ projects:
 
       
       
-
-
-# publications:
-#     title: 其他工作
-#     intro: |
+publications:
+    title: 其他工作
+    intro: |
       
 
-#     papers:
-#       - title: 计算机学院“开学第一课”现场服务
-#         link: "#"
-#         authors: 2023/09
+    papers:
+      - title: 计算机学院“开学第一课”现场服务
+        link: "#"
+        authors: 2023/09
 
 
-#       - title: 第一次学生会全体会议组织与ppt制作
-#         link: "#"
-#         authors: 2023/09
+      - title: 第一次学生会全体会议组织与ppt制作
+        link: "#"
+        authors: 2023/09
 
-#       - title: 撰写学生会换届方案
-#         link: "#"
-#         authors: 2023/09
+      - title: 撰写学生会换届方案
+        link: "#"
+        authors: 2023/09
       
-#       - title: 设计活动材料的留存机制和上云
-#         link: "#"
-#         authors: 2023/09
-      
-
-
-
+      - title: 设计活动材料的留存机制和上云
+        link: "#"
+        authors: 2023/09
       
 
-# skills:
-#     title: 技能
 
-#     toolset:
-#       - name: Python & Django
-#         level: 98%
 
-#       - name: Javascript & jQuery
-#         level: 98%
+    
+skills:
+    title: 技能
 
-#       - name: Angular
-#         level: 98%
+    toolset:
+      - name: Python & Django
+        level: 98%
 
-#       - name: HTML5 & CSS
-#         level: 95%
+      - name: Javascript & jQuery
+        level: 98%
 
-#       - name: Ruby on Rails
-#         level: 85%
+      - name: Angular
+        level: 98%
 
-#       - name: Sketch & Photoshop
-#         level: 60%
+      - name: HTML5 & CSS
+        level: 95%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="https://aboutpyx.cn/" target="_blank" rel="nofollow">清弦.</a>
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
+
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="https://aboutpyx.cn/" target="_blank" rel="nofollow">清弦.</a>
