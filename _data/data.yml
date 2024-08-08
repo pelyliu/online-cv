@@ -123,9 +123,8 @@ projects:
 
       - title: 科研经历
         # link: "#"
-        tagline: "国家级大创负责人 / [发表会议论文 1 篇](https://drpress.org/ojs/index.php/HSET/article/view/17061)"
+        tagline: "国家级大创负责人 / <a href='https://drpress.org/ojs/index.php/HSET/article/view/17061'>发表会议论文 1 篇</a>"
 
-    
 publications:
     title: 校园经历
     intro: |
