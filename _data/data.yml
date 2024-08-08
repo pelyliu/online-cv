@@ -54,29 +54,24 @@ education:
             
           专业课程：摄影技术 / 摄影构图 / 视频编辑 / 视频效果制作 / 电视影像语言 / 影视照明实践 / 电视编导 / 电视写作 / 视听创作 / 电视采访报道 / 融合新闻学 / 电视新闻学 / 媒介文化学 等
 
-# experiences:
-#     title: 日常性工作
-#     info:
-#       - role: 主持每周部长例会
-#         time: 
-#         company: 
-#         details: |
-#           每周于学园二-456组织部长例会，秋季学期每周四下午，春季学期于每周一下午。
+experiences:
+    title: 实习经历
+    info:
+      - role: 宣传助理
+        time: 2023.07-2023.09
+        company: 中国广播电视国际经济技术合作有限公司（CBIC）
+        details: |
+          略
 
-#       - role: 按期整理工作情况上报校团委
-#         time: 
-#         company: 
-#         details: |
-#           与主席团成员一起，按月总结各类活动的开展情况，分别提交至校团委与校学生会。~~其实春季学期好像已经不怎么要求了~~
+      - role: 新媒体运营
+        time: 2024.04-至今
+        company: 北京益起映创文化科技有限公司（原 后浪电影）
+        details: |
+          略
 
-#       - role: 担任螺丝钉
-#         time: 
-#         company: 
-#         details: |
-#           日常的各类文案撰写、表格处理、信息收集、资料整理、创意与活动设计工作，与学校相关部门、其他学院学生会、学院各班级班长的对接工作，各类活动的现场工作、收尾工作和各类“临时缺人手”的工作。
 
 # certifications:
-#       title: 代表性工作
+#       title: 
 #       list:
 #         - name: 获评2023年度优秀学生会组织
 #           start: 
@@ -88,15 +83,6 @@ education:
 #           details: |
 #             作为学生会主席，带领学生会获评2023年度优秀学生会组织，代表学院前往中国科学院西安光学精密器械研究所参与国科大学生会组织交流工作会议。
             
-
-#         - name: 开发国科大计算机学院AI助手
-#           start: 
-#           end: 
-#           organization: 
-#           credentialurl: 
-#           credentialname: 
-#           details: |
-#             独立完成学院AI助手 [SCST AI bot](https://www.scstai.chat/#/chat) 的开发和上线工作，实现了推送制作、新闻稿撰写、活动方案设计和相关内容审核工作的智能化，上线以来累计处理请求 **2494** 次，初步提出 **AI+学生组织** 概念。
 
 # projects:
 #     title: 活动参与度
