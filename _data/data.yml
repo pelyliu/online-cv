@@ -146,20 +146,13 @@ skills:
     title: 专业技能
 
     toolset:
-      - name: PS / PR
+      - name: PS / PR / AE / AU / 剪映 / Motion
         level: 90%
-      - name: AE / Motion
-        level: 90%
-      - name: 剪映
-        level: 90%
-      - name: C / C++ / Python
-        level: 85%
-      - name: Matlab / CSS
+      - name: C / C++ / Python / Matlab / CSS
         level: 85%
       - name: 摄影 / 摄像
         level: 85%
       - name: 英语
         level: 70%
 
-# footer: >
-#     A Online-CV <i class="fas fa-heart"></i> of <a href="https://aboutpyx.cn/" target="_blank" rel="nofollow">刘沛林.</a>
+footer: "An online CV of 刘沛林"
