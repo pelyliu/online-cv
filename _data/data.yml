@@ -113,17 +113,14 @@ projects:
         link: "#"
         tagline: "校级二等奖学金 / 学术科研竞赛单项奖学金 / BIRTV奖学金 / 华创高科奖学金"
     
-    assignments:
       - title: 荣誉称号
         link: "#"
         tagline: "校级三好学生 / 校级优秀志愿者 / 校级优秀团员"
 
-    assignments:
       - title: 竞赛奖项
         link: "#"
         tagline: "数学建模美赛M奖 / “互联网+”北京市级三等奖 / “挑战杯”校级三等奖"
 
-    assignments:
       - title: 科研经历
         link: "#"
         tagline: "国家级大创负责人 / 发表会议论文1篇"
@@ -161,5 +158,5 @@ skills:
       - name: 英语
         level: 70%
 
-# footer: >
-#     Designed with <i class="fas fa-heart"></i> by <a href="https://aboutpyx.cn/" target="_blank" rel="nofollow">清弦.</a>
+footer: >
+    A Online-CV <i class="fas fa-heart"></i> of <a href="https://aboutpyx.cn/" target="_blank" rel="nofollow">刘沛林.</a>
