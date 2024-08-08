@@ -111,7 +111,7 @@ projects:
     assignments:
       - title: 奖学金
         # link: "#"
-        tagline: "校级二等奖学金 / 学术科研竞赛单项奖学金 / BIRTV奖学金 / 华创高科奖学金"
+        tagline: "校级二等奖学金 / 学术科研竞赛奖学金 / BIRTV奖学金 / 华创高科奖学金"
     
       - title: 荣誉称号
         # link: "#"
@@ -123,22 +123,23 @@ projects:
 
       - title: 科研经历
         # link: "#"
-        tagline: "国家级大创负责人 / 发表会议论文 1 篇"
+        tagline: "国家级大创负责人 / [发表会议论文 1 篇](https://drpress.org/ojs/index.php/HSET/article/view/17061)"
+
     
 publications:
     title: 校园经历
     intro: |
 
     papers:
-      - title: 中国传媒大学 信息与通信工程学院 班长
+      - title: 中国传媒大学 信息与通信工程学院 班长（ 2021.09 - 至今 ）
         # link: "#"
         # authors: 2023/09
 
-      - title: 中国传媒大学 信息与通信工程学院 团委宣传部 干事
+      - title: 中国传媒大学 信息与通信工程学院 团委宣传部 干事（ 2022.09 - 2023.09 ）
         # link: "#"
         # authors: 2023/09
 
-      - title: 中国传媒大学 志愿者联合会 品牌宣传部 干事
+      - title: 中国传媒大学 志愿者联合会 品牌宣传部 干事（ 2021.09 - 2022.09 ）
         # link: "#"
         # authors: 2023/09
 
@@ -151,13 +152,13 @@ skills:
       - name: AE / Motion
         level: 90%
       - name: 剪映
-        level: 100%
+        level: 90%
       - name: C / C++ / Python
         level: 85%
       - name: Matlab / CSS
         level: 85%
       - name: 摄影 / 摄像
-        level: 90%
+        level: 85%
       - name: 英语
         level: 70%
 
