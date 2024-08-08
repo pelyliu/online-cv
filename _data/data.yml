@@ -58,77 +58,42 @@ experiences:
     title: 实习经历
     info:
       - role: 中国广播电视国际经济技术合作有限公司（CBIC）
-        time: 2023.07-2023.09
+        time: 2023.07 - 2023.09
         company: 宣传助理 实习生
         details: |
           略
 
       - role: 北京益起映创文化科技有限公司（原 后浪电影）
-        time: 2024.04-至今
+        time: 2024.04 - 至今
         company: 新媒体运营 实习生
         details: |
           略
 
 
-certifications:
-      title: 
-      list:
-        - name: 获评2023年度优秀学生会组织
-          start: 
-          end:
-          organization: 
-#          credentialid: 111-222  # 好像是证书编号
-          credentialurl: 
-          credentialname: 
-          details: |
-            作为学生会主席，带领学生会获评2023年度优秀学生会组织，代表学院前往中国科学院西安光学精密器械研究所参与国科大学生会组织交流工作会议。
+# certifications:
+#       title: 
+#       list:
+#         - name: 获评2023年度优秀学生会组织
+#           start: 
+#           end:
+#           organization: 
+# #          credentialid: 111-222  # 好像是证书编号
+#           credentialurl: 
+#           credentialname: 
+#           details: |
+#             作为学生会主席，带领学生会获评2023年度优秀学生会组织，代表学院前往中国科学院西安光学精密器械研究所参与国科大学生会组织交流工作会议。
             
 
-# projects:
-#     title: 活动参与度
-#     intro: >
+projects:
+    title: 活动参与度
+    intro: >
       
 
-#     assignments:
-#       - title: 秋季运动会
-#         link: "#"
-#         tagline: "开幕式方阵成员 & 后勤服务 & 会场服务"
+    assignments:
+      - title: 秋季运动会
+        link: "#"
+        tagline: "开幕式方阵成员 & 后勤服务 & 会场服务"
 
-#       - title: “一二·九”合唱
-#         link: "#"
-#         tagline: "男高声部成员"
-      
-#       - title: “两弹一星”话剧
-#         link: "#"
-#         tagline: "钱三强扮演者 & 后勤服务"
-      
-#       - title: 学生代表大会
-#         link: "#"
-#         tagline: "学院材料整理 & 参会学生代表"
-      
-#       - title: 元旦晚会
-#         link: "#"
-#         tagline: "活动设计 & 后勤服务 & 现场服务"
-
-#       - title: “五月的鲜花”文艺汇演
-#         link: "#"
-#         tagline: "后勤服务 & 现场服务"
-      
-#       - title: IT义务维修
-#         link: "#"
-#         tagline: "“创益家”团队负责人 取得学校教育基金会30,000经费支持"
-
-#       - title: 宿舍小讲堂
-#         link: "#"
-#         tagline: "活动设计 & 现场服务 & 第十八期主讲人"
-      
-#       - title: 春分工程科普
-#         link: "#"
-#         tagline: "团队组建 & 内容创作与审核 & 科普摊位工作"
-      
-#       - title: 春分工程百科词条项目
-#         link: "#"
-#         tagline: "团队负责人"
       
       
 
@@ -155,102 +120,6 @@ certifications:
 #       - title: 设计活动材料的留存机制和上云
 #         link: "#"
 #         authors: 2023/09
-      
-#       - title: 代表学院参与集中教学院系学生组织交流
-#         link: "#"
-#         authors: 2023/09
-      
-#       - title: 学生会仓库整理
-#         link: "#"
-#         authors: 2023/09
-
-#       - title: 组织学生参与国庆升旗观礼
-#         link: "#"
-#         authors: 2023/10
-      
-#       - title: 作为学生代表和场务参与党委巡察座谈会
-#         link: "#"
-#         authors: 2023/10
-      
-#       - title: 作为学生代表参与师生下午茶
-#         link: "#"
-#         authors: 2023/10
-      
-#       - title: “爱在果壳”讲座现场服务
-#         link: "#"
-#         authors: 2023/10
-      
-#       - title: 参与雁栖镇科普嘉年华
-#         link: "#"
-#         authors: 2023/10
-      
-#       - title: 参与中关村一小怀柔校区科技节
-#         link: "#"
-#         authors: 2023/10
-      
-#       - title: 承办“十五院联动”学习打卡活动
-#         link: "#"
-#         authors: 2023/11
-      
-#       - title: 参与北京一零一中怀柔校区科技节
-#         link: "#"
-#         authors: 2023/11
-      
-#       - title: 组建学院辩论队 & 参与队训
-#         link: "#"
-#         authors: 2023/11
-      
-#       - title: 科教融合展示系列活动设计与材料收集审核
-#         link: "#"
-#         authors: 2023/11
-      
-#       - title: 学生代表大会复盘工作
-#         link: "#"
-#         authors: 2023/12
-      
-#       - title: 参与宪法日讲座活动
-#         link: "#"
-#         authors: 2023/12
-      
-#       - title: “创益家”公益项目大赛赛事筹备
-#         link: "#"
-#         authors: 2023/12
-      
-#       - title: 担任包饺子活动吉祥物“双料特工”
-#         link: "#"
-#         authors: 2023/12
-      
-#       - title: 第二课堂学生组织入驻
-#         link: "#"
-#         authors: 2024/01
-      
-#       - title: 第二次学生会全体会议组织与ppt制作
-#         link: "#"
-#         authors: 2024/02
-      
-#       - title: 作为学生代表和场务参与党委巡察座谈会反馈会议
-#         link: "#"
-#         authors: 2024/03
-      
-#       - title: 组建百科词条大模型研发团队
-#         link: "#"
-#         authors: 2024/03
-
-#       - title: 参与怀柔三小科技节
-#         link: "#"
-#         authors: 2024/05
-      
-#       - title: 学生会仓库整理
-#         link: "#"
-#         authors: 2024/05
-
-#       - title: 计算机学院朋辈分享会现场服务
-#         link: "#"
-#         authors: 2024/05  
-
-#       - title: 优秀学生评选材料审核工作
-#         link: "#"
-#         authors: 2024/05
       
 
 
