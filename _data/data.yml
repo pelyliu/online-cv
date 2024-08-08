@@ -25,7 +25,6 @@ sidebar:
         #   link:
 ##### 边栏结束 #####
 
-
 ##### 主栏开始 #####
 # career-profile:
 #     title: 生涯概况
@@ -92,7 +91,6 @@ experiences:
         # details: |
         #   略
 
-
 # certifications:
 #       title: 
 #       list:
@@ -105,14 +103,13 @@ experiences:
 #           credentialname: 
 #           details: |
 #             
-            
 
 projects:
     title: 获得荣誉
     intro: >
 
     assignments:
-      - title: 奖学金
+      - title: 奖 学 金
         link: "#"
         tagline: "校级二等奖学金 / 学术科研竞赛单项奖学金 / BIRTV奖学金 / 华创高科奖学金"
     
@@ -124,7 +121,7 @@ projects:
     assignments:
       - title: 竞赛奖项
         link: "#"
-        tagline: "数学建模美赛M奖 / “互联网+”北京市级三等奖 / 国家级大创负责人 / “挑战杯”校级三等奖"
+        tagline: "数学建模美赛M奖 / “互联网+”北京市级三等奖 / “挑战杯”校级三等奖"
 
     assignments:
       - title: 科研经历
@@ -134,51 +131,35 @@ projects:
 publications:
     title: 校园经历
     intro: |
-      
 
     papers:
-      - title: 计算机学院“开学第一课”现场服务
+      - title: 中国传媒大学 信息与通信工程学院 班长
         link: "#"
-        authors: 2023/09
+        # authors: 2023/09
 
-
-      - title: 第一次学生会全体会议组织与ppt制作
+      - title: 中国传媒大学 信息与通信工程学院 团委宣传部 干事
         link: "#"
-        authors: 2023/09
+        # authors: 2023/09
 
-      - title: 撰写学生会换届方案
+      - title: 中国传媒大学 志愿者联合会 品牌宣传部 干事
         link: "#"
-        authors: 2023/09
-      
-      - title: 设计活动材料的留存机制和上云
-        link: "#"
-        authors: 2023/09
-      
+        # authors: 2023/09
 
-
-
-    
 skills:
     title: 专业技能
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: PS / PR / AE / AU / 剪映
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: 摄影 / 摄像
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: C / C++ / Python / Matlab / CSS
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: 英语
+        level: 70%
 
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="https://aboutpyx.cn/" target="_blank" rel="nofollow">清弦.</a>
