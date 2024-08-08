@@ -57,31 +57,31 @@ education:
 experiences:
     title: 实习经历
     info:
-      - role: 宣传助理
+      - role: 中国广播电视国际经济技术合作有限公司（CBIC）
         time: 2023.07-2023.09
-        company: 中国广播电视国际经济技术合作有限公司（CBIC）
+        company: 宣传助理 实习生
         details: |
           略
 
-      - role: 新媒体运营
+      - role: 北京益起映创文化科技有限公司（原 后浪电影）
         time: 2024.04-至今
-        company: 北京益起映创文化科技有限公司（原 后浪电影）
+        company: 新媒体运营 实习生
         details: |
           略
 
 
-# certifications:
-#       title: 
-#       list:
-#         - name: 获评2023年度优秀学生会组织
-#           start: 
-#           end:
-#           organization: 
-# #          credentialid: 111-222  # 好像是证书编号
-#           credentialurl: 
-#           credentialname: 
-#           details: |
-#             作为学生会主席，带领学生会获评2023年度优秀学生会组织，代表学院前往中国科学院西安光学精密器械研究所参与国科大学生会组织交流工作会议。
+certifications:
+      title: 
+      list:
+        - name: 获评2023年度优秀学生会组织
+          start: 
+          end:
+          organization: 
+#          credentialid: 111-222  # 好像是证书编号
+          credentialurl: 
+          credentialname: 
+          details: |
+            作为学生会主席，带领学生会获评2023年度优秀学生会组织，代表学院前往中国科学院西安光学精密器械研究所参与国科大学生会组织交流工作会议。
             
 
 # projects:
