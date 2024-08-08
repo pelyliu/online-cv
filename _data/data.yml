@@ -15,7 +15,7 @@ sidebar:
     # pdf: # 如果有pdf版的简历，可以在这里放简历的下载链接，或者直接放 {https://你的简历页面}/print
 
     interests:
-     title: 中共预备党员<br>  <br>班级班长<br>  <br>现居北京 来自山东  
+     title: 中共预备党员<br>  <br>现居北京 来自山东  
     #  info:
     #    - item: 优秀学生干部
     #      link:
@@ -119,11 +119,11 @@ projects:
 
       - title: 竞赛奖项
         # link: "#"
-        tagline: "数学建模美赛M奖 / 互联网+北京市级铜奖 / 挑战杯校级三等奖"
+        tagline: "数学建模美赛M奖 / <a href='https://cy.ncss.cn/search/2c95810389066c9301891024af1e1691'>互联网+北京市级铜奖</a> / 挑战杯校级三等奖"
 
       - title: 科研经历
         # link: "#"
-        tagline: "国家级大创负责人 / <a href='https://drpress.org/ojs/index.php/HSET/article/view/17061'>发表会议论文 1 篇</a>"
+        tagline: "<a href='http://gjcxcy.bjtu.edu.cn/NewLXItemListForStudentDetail.aspx?ItemNo=1069430&year=2023&type=student&IsLXItem=0'>国家级大创负责人</a> / <a href='https://drpress.org/ojs/index.php/HSET/article/view/17061'>发表会议论文 1 篇</a>"
 
 publications:
     title: 校园经历
@@ -149,9 +149,9 @@ skills:
       - name: PS / PR / AE / AU / 剪映 / Motion
         level: 90%
       - name: C / C++ / Python / Matlab / CSS
-        level: 85%
+        level: 80%
       - name: 摄影 / 摄像
-        level: 85%
+        level: 80%
       - name: 英语
         level: 70%
 
