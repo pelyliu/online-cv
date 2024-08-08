@@ -1,31 +1,25 @@
-#
-# 简历中的所有内容基本都在这里修改
-# 有不想要的地方可以空着，但是不要随意删除
-# 有什么问题可以联系微信pyx2466079565
-#
-
 ##### 边栏开始 #####
 sidebar:
     education: False  # 用于"教育背景"栏目所处位置的设置False表示在主栏，True表示在侧边栏
 
     # 基本信息
     name: 刘沛林  # 你的姓名
-    tagline: 中国传媒大学本科在读 # 姓名下方的小字，一句话介绍自己，可以是座右铭/求职目标（算法工程师）/
+    tagline: 中国传媒大学 本科 在读 # 姓名下方的小字，一句话介绍自己，可以是座右铭 / 求职目标（算法工程师）/
     avatar: id_photo.jpg  # 将你头像图片放在assets/images中，然后将文件名填在这里，注意要带后缀，如.jpeg/.png等
 
     # 以下内容如果自己没有可以在该行的最前面添加"#"，将其注释掉
     email: pelyliu@126.com
     phone: +86 13053544169
-    # website: pyxblog.cn  # 个人主页链接，前面不要添加http://
-    github: pelyliu  # GitHub用户名
-#    stack-overflow: # Number/Username, e.g. 123456/alandoe
-#    pdf:   # 如果有pdf版的简历，可以在这里放简历的下载链接，或者直接放 {https://你的简历页面}/print
+    # website:  # 个人主页链接，前面不要添加http://
+    address: 北京市朝阳区中国传媒大学梆子井学生公寓
+    # github: pelyliu  # GitHub用户名
+    # pdf:   # 如果有pdf版的简历，可以在这里放简历的下载链接，或者直接放 {https://你的简历页面}/print
 
-    interests:
-      title: 竞选类别
-      info:
-        - item: 优秀学生干部
-          link:
+    # interests:
+    #  title: 竞选类别
+    #  info:
+    #    - item: 优秀学生干部
+    #      link:
         # - item: 编程
         #   link:
         # - item: 画饼
