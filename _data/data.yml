@@ -14,8 +14,10 @@ sidebar:
     # github: pelyliu # GitHub用户名
     # pdf: # 如果有pdf版的简历，可以在这里放简历的下载链接，或者直接放 {https://你的简历页面}/print
 
-    # interests:
-    #  title: 竞选类别
+    interests:
+     title: 中共预备党员
+     title: 班级班长
+     title: 现居北京 来自山东
     #  info:
     #    - item: 优秀学生干部
     #      link:
@@ -45,7 +47,7 @@ education:
             
           GPA：3.49 / 4.0  
             
-          专业课程：数字电视演播室技术 / 融合媒体制作与播出技术 / 融合媒体系统设计与应用 / 音频工程 / 视频测量技术 / 现代电视原理 / 数字视音频处理 / 数据压缩原理与应用 / 媒体数据库与云存储 等
+          专业课程：**数字电视演播室技术** / **融合媒体制作与播出技术** / **融合媒体系统设计与应用** / **音频工程** / **视频测量技术** / **现代电视原理** / 数字视音频处理 / 数据压缩原理与应用 / 媒体数据库与云存储 等
 
       - degree: 广播电视编导（电视编辑方向）
         university: 中国传媒大学 电视学院
@@ -55,19 +57,19 @@ education:
             
           GPA：3.80 / 4.0  
             
-          专业课程：摄影技术 / 摄影构图 / 视频编辑 / 视频效果制作 / 电视影像语言 / 影视照明实践 / 电视编导 / 电视写作 / 视听创作 / 电视采访报道 / 融合新闻学 / 电视新闻学 / 媒介文化学 等
+          专业课程：**摄影技术** / **摄影构图** / **视频编辑** / **视频效果制作** / **电视影像语言** / **影视照明实践** / 电视编导 / 电视写作 / 视听创作 / **电视采访报道** / 融合新闻学 / 电视新闻学 / 媒介文化学 等
 
 experiences:
     title: 实习经历
     info:
 
-      - role: 北京益起映创文化科技有限公司（原 后浪电影）
+      - role: 北京益起映创文化科技有限公司（原 **后浪电影**）
         time: 2024.04 - 至今
         company: 新媒体运营 实习生
         # details: |
         #   略
 
-      - role: 第三届“一带一路”国际合作高峰论坛（BRF）
+      - role: 第三届 一带一路 国际合作高峰论坛（BRF）
         time: 2023.10.15 - 10.18
         company: 志愿者
         # details: |
@@ -109,9 +111,9 @@ projects:
     intro: >
 
     assignments:
-      - title: 奖 学 金
+      - title: 奖学金
         link: "#"
-        tagline: "校级二等奖学金 / 学术科研竞赛单项奖学金 / BIRTV奖学金 / 华创高科奖学金"
+        tagline: "**校级二等奖学金** / 学术科研竞赛单项奖学金 / **BIRTV奖学金** / **华创高科奖学金**"
     
       - title: 荣誉称号
         link: "#"
@@ -119,11 +121,11 @@ projects:
 
       - title: 竞赛奖项
         link: "#"
-        tagline: "数学建模美赛M奖 / “互联网+”北京市级三等奖 / “挑战杯”校级三等奖"
+        tagline: "**数学建模美赛M奖** / **互联网+北京市级三等奖** / 挑战杯校级三等奖"
 
       - title: 科研经历
         link: "#"
-        tagline: "国家级大创负责人 / 发表会议论文1篇"
+        tagline: "**国家级大创负责人** / 发表会议论文 1 篇"
     
 publications:
     title: 校园经历
@@ -131,15 +133,15 @@ publications:
 
     papers:
       - title: 中国传媒大学 信息与通信工程学院 班长
-        link: "#"
+        # link: "#"
         # authors: 2023/09
 
       - title: 中国传媒大学 信息与通信工程学院 团委宣传部 干事
-        link: "#"
+        # link: "#"
         # authors: 2023/09
 
       - title: 中国传媒大学 志愿者联合会 品牌宣传部 干事
-        link: "#"
+        # link: "#"
         # authors: 2023/09
 
 skills:
@@ -158,5 +160,5 @@ skills:
       - name: 英语
         level: 70%
 
-footer: >
-    A Online-CV <i class="fas fa-heart"></i> of <a href="https://aboutpyx.cn/" target="_blank" rel="nofollow">刘沛林.</a>
+# footer: >
+#     A Online-CV <i class="fas fa-heart"></i> of <a href="https://aboutpyx.cn/" target="_blank" rel="nofollow">刘沛林.</a>
