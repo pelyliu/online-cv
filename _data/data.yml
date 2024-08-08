@@ -38,25 +38,21 @@ sidebar:
 education:
     title: 教育背景
     info:
-      - degree: 广播电视工程
+      - degree: 广播电视工程（数字电视制播技术方向）
         university: 中国传媒大学 信息与通信工程学院
         time: 2021.09 - 2025.07
         details: |
           学历层次：本科学位  
             
-          专业方向：数字电视制播技术  
-            
           GPA：3.49 / 4.0  
             
           专业课程：数字电视演播室技术 / 融合媒体制作与播出技术 / 融合媒体系统设计与应用 / 音频工程 / 视频测量技术 / 现代电视原理 / 数字视音频处理 / 数据压缩原理与应用 / 媒体数据库与云存储 等
 
-      - degree: 广播电视编导
+      - degree: 广播电视编导（电视编辑方向）
         university: 中国传媒大学 电视学院
         time: 2022.09 - 2024.07
         details: |
           学历层次：辅修学位  
-            
-          专业方向：电视编辑  
             
           GPA：3.80 / 4.0  
             
@@ -90,7 +86,7 @@ experiences:
         # details: |
         #   略
 
-      - role: 中国国际服务贸易交易会
+      - role: 中国国际服务贸易交易会（CIFTIS）
         time: 2022.09.01 - 09.05
         company: 新闻中心 志愿者
         # details: |
@@ -100,7 +96,7 @@ experiences:
 # certifications:
 #       title: 
 #       list:
-#         - name: 获评2023年度优秀学生会组织
+#         - name: 
 #           start: 
 #           end:
 #           organization: 
@@ -112,19 +108,31 @@ experiences:
             
 
 projects:
-    title: 校园经历
+    title: 获得荣誉
     intro: >
-      
 
     assignments:
-      - title: 秋季运动会
+      - title: 奖学金
         link: "#"
-        tagline: "开幕式方阵成员 & 后勤服务 & 会场服务"
+        tagline: "校级二等奖学金 / 学术科研竞赛单项奖学金 / BIRTV奖学金 / 华创高科奖学金"
+    
+    assignments:
+      - title: 荣誉称号
+        link: "#"
+        tagline: "校级三好学生 / 校级优秀志愿者 / 校级优秀团员"
 
-      
-      
+    assignments:
+      - title: 竞赛奖项
+        link: "#"
+        tagline: "数学建模美赛M奖 / “互联网+”北京市级三等奖 / 国家级大创负责人 / “挑战杯”校级三等奖"
+
+    assignments:
+      - title: 科研经历
+        link: "#"
+        tagline: "国家级大创负责人 / 发表会议论文1篇"
+    
 publications:
-    title: 其他工作
+    title: 校园经历
     intro: |
       
 
@@ -151,7 +159,7 @@ publications:
 
     
 skills:
-    title: 技能
+    title: 专业技能
 
     toolset:
       - name: Python & Django
