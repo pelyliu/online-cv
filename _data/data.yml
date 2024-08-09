@@ -61,31 +61,31 @@ experiences:
     title: 实习经历
     info:
 
-      - role: 北京益起映创文化科技有限公司（ 原 后浪电影 ）
+      - role: 北京益起映创文化科技有限公司（原后浪电影）
         time: 2024.04 - 至今
         company: 新媒体运营 实习生
         # details: |
         #   略
 
-      - role: 第三届 一带一路 国际合作高峰论坛（ BRF ）
+      - role: 第三届一带一路国际合作高峰论坛（BRF）
         time: 2023.10.15 - 10.18
-        company: 志愿者
+        company: 体验区（科技展示）志愿者
         # details: |
         #   略
 
-      - role: 中国广播电视国际经济技术合作有限公司（ CBIC ）
+      - role: 中国广播电视国际经济技术合作有限公司（CBIC）
         time: 2023.07 - 2023.09
         company: 宣传助理 实习生
         # details: |
         #   略
 
-      - role: 第三十届北京国际广播电影电视展览会（ BIRTV2023 ）
+      - role: 第三十届北京国际广播电影电视展览会（BIRTV2023）
         time: 2023.08.23 - 08.26
         company: 宣传助理 实习生
         # details: |
         #   略
 
-      - role: 中国国际服务贸易交易会（ CIFTIS ）
+      - role: 中国国际服务贸易交易会（CIFTIS）
         time: 2022.09.01 - 09.05
         company: 新闻中心 志愿者
         # details: |
@@ -104,6 +104,23 @@ experiences:
 #           details: |
 #             
 
+publications:
+    title: 校园经历
+    intro: |
+
+    papers:
+      - title: 中国传媒大学 信息与通信工程学院 广播电视工程本科班 班长 2021.09 - 2025.07
+        # link: "#"
+        # authors: 2023/09
+
+      - title: 中国传媒大学 信息与通信工程学院 团委宣传部 干事 2022.09 - 2023.09
+        # link: "#"
+        # authors: 2023/09
+
+      - title: 中国传媒大学 志愿者联合会 品牌宣传部 干事 2021.09 - 2022.09
+        # link: "#"
+        # authors: 2023/09
+
 projects:
     title: 获得荣誉
     intro: >
@@ -111,48 +128,35 @@ projects:
     assignments:
       - title: 奖学金
         # link: "#"
-        tagline: "校级二等奖学金 / 学术科研竞赛奖学金 / BIRTV奖学金 / 华创高科奖学金"
+        authors: 校级二等奖学金 / 学术科研竞赛奖学金 / BIRTV奖学金 / 华创高科奖学金
     
       - title: 荣誉称号
         # link: "#"
-        tagline: "校级三好学生 / 校级优秀志愿者 / 校级优秀团员"
+        authors: 校级三好学生 / 校级优秀志愿者 / 校级优秀团员
 
       - title: 竞赛奖项
         # link: "#"
-        tagline: "数学建模美赛M奖 / <a href='https://cy.ncss.cn/search/2c95810389066c9301891024af1e1691'>互联网+北京市级铜奖</a> / 挑战杯校级三等奖"
+        authors: 数学建模美赛M奖 / 互联网+北京市级铜奖 / 挑战杯校级三等奖
 
       - title: 科研经历
         # link: "#"
-        tagline: "<a href='http://gjcxcy.bjtu.edu.cn/NewLXItemListForStudentDetail.aspx?ItemNo=1069430&year=2023&type=student&IsLXItem=0'>国家级大创负责人</a> / <a href='https://drpress.org/ojs/index.php/HSET/article/view/17061'>发表会议论文 1 篇</a>"
-
-publications:
-    title: 校园经历
-    intro: |
-
-    papers:
-      - title: 中国传媒大学 信息与通信工程学院 班长（ 2021.09 - 至今 ）
-        # link: "#"
-        # authors: 2023/09
-
-      - title: 中国传媒大学 信息与通信工程学院 团委宣传部 干事（ 2022.09 - 2023.09 ）
-        # link: "#"
-        # authors: 2023/09
-
-      - title: 中国传媒大学 志愿者联合会 品牌宣传部 干事（ 2021.09 - 2022.09 ）
-        # link: "#"
-        # authors: 2023/09
+        authors: 国家级大创负责人 / <a href='https://drpress.org/ojs/index.php/HSET/article/view/17061'>发表会议论文 1 篇</a>
 
 skills:
     title: 专业技能
-
-    toolset:
-      - name: PS / PR / AE / AU / 剪映 / Motion
-        level: 90%
-      - name: C / C++ / Python / Matlab / CSS
-        level: 80%
-      - name: 摄影 / 摄像
-        level: 80%
-      - name: 英语
-        level: 70%
+    assignments:
+      - title: 英语水平
+        # link: "#"
+        authors: CET4 / CET6
+        
+    # toolset:
+    #   - name: PS / PR / AE / AU / 剪映 / Motion
+    #     level: 90%
+    #   - name: C / C++ / Python / Matlab / CSS
+    #     level: 80%
+    #   - name: 摄影 / 摄像
+    #     level: 80%
+    #   - name: 英语
+    #     level: 70%
 
 footer: "刘沛林 个人简历"
