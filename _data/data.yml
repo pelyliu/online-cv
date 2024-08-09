@@ -104,23 +104,6 @@ experiences:
 #           details: |
 #             
 
-publications:
-    title: 校园经历
-    intro: |
-
-    papers:
-      - title: 中国传媒大学 信息与通信工程学院 广播电视工程本科班 班长 2021.09 - 2025.07
-        # link: "#"
-        # authors: 2023/09
-
-      - title: 中国传媒大学 信息与通信工程学院 团委宣传部 干事 2022.09 - 2023.09
-        # link: "#"
-        # authors: 2023/09
-
-      - title: 中国传媒大学 志愿者联合会 品牌宣传部 干事 2021.09 - 2022.09
-        # link: "#"
-        # authors: 2023/09
-
 projects:
     title: 获得荣誉
     intro: >
@@ -141,6 +124,23 @@ projects:
       - title: 科研经历
         # link: "#"
         tagline: "国家级大创负责人 / <a href='https://drpress.org/ojs/index.php/HSET/article/view/17061'>发表会议论文 1 篇</a>"
+
+publications:
+    title: 校园经历
+    intro: |
+
+    papers:
+      - title: 中国传媒大学 信息与通信工程学院 广播电视工程本科班 班长 2021.09 - 2025.07
+        # link: "#"
+        # authors: 2023/09
+
+      - title: 中国传媒大学 信息与通信工程学院 团委宣传部 干事 2022.09 - 2023.09
+        # link: "#"
+        # authors: 2023/09
+
+      - title: 中国传媒大学 志愿者联合会 品牌宣传部 干事 2021.09 - 2022.09
+        # link: "#"
+        # authors: 2023/09
 
 skills:
     title: 专业技能
