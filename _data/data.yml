@@ -139,11 +139,13 @@ publications:
 
 skills:
   title: 专业技能
-
-  "英语水平": "CET4 | CET6 | 英语可作为工作语言"
-  "编程能力": "C | C++ | Python | Matlab | CSS"
-  "影视后期能力": "PS | PR | AE | AU | 剪映 | Motion"
-  "其它技能": "摄影 | 摄像 | 普通话二级甲等 | 机动车驾驶证C1 | 北京红十字会救护技能证"
+"英语水平: CET4 | CET6 | 英语可作为工作语言"
+"  "
+"编程能力: C | C++ | Python | Matlab | CSS"
+"  "
+"影视后期能力: PS | PR | AE | AU | 剪映 | Motion"
+"  "
+"其它技能: 摄影 | 摄像 | 普通话二级甲等 | 机动车驾驶证C1 | 北京红十字会救护技能证"
 
     # toolset:
     #   - name: 英语水平：CET4 / CET6 / 英语可作为工作语言
