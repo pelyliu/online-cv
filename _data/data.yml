@@ -130,9 +130,9 @@ publications:
     intro: |
 
     papers:
-      - title: 中国传媒大学 信息与通信工程学院 广播电视工程本科班 班长 2021.09 - 2025.07
+      - title: 中国传媒大学 信息与通信工程学院 班长 2021.09 - 2025.07
         # link: "#"
-        authors: 带领班级获得**中央广播电视总台优秀班集体** / **校级优秀班集体** / **校级优秀团支部**荣誉称号
+        authors: 带领班级获得 中央广播电视总台优秀班集体 / 校级优秀班集体 / 校级优秀团支部 荣誉称号
 
       - title: 中国传媒大学 信息与通信工程学院 团委宣传部 干事 2022.09 - 2023.09
         # link: "#"
@@ -145,14 +145,14 @@ publications:
 skills:
     title: 专业技能
 
-    # toolset:
-    #   - name: PS / PR / AE / AU / 剪映 / Motion
-    #     level: 90%
-    #   - name: C / C++ / Python / Matlab / CSS
-    #     level: 80%
-    #   - name: 摄影 / 摄像
-    #     level: 80%
-    #   - name: 英语
-    #     level: 70%
+    toolset:
+      - name: 英语水平：CET4 / CET6 / 英语可作为工作语言
+        # level: 100%
+      - name: 编程能力：C / C++ / Python / Matlab / CSS
+        # level: 100%
+      - name: 影视后期能力：PS / PR / AE / AU / 剪映 / Motion
+        # level: 100%
+      - name: 其它技能：摄影 / 摄像 / 普通话二级甲等 / 机动车驾驶证C1 / 北京红十字会救护技能证
+        # level: 100%
 
 footer: "刘沛林 个人简历"
