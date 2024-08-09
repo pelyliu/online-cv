@@ -253,24 +253,35 @@ p {
 }
 
 .skillset {
+  display: flex;
+  flex-direction: column; /* 使技能项垂直排列 */
+  align-items: flex-start; /* 对齐到容器的起始边 */
+  
   .item {
+    width: 100%; /* 确保每个技能项占满容器的宽度 */
+    display: flex;
+    justify-content: space-between; /* 在项中创建两端对齐 */
     margin-bottom: 15px;
     overflow: hidden;
   }
+  
   .level-title {
     font-size: 14px;
     margin-top: 0;
     margin-bottom: 12px;
   }
+  
   .level-bar {
     height: 12px;
     background: $smoky-white;
   }
+  
   .level-bar-inner {
     height: 12px;
     background: lighten($theme-color, 15%);
   }
 }
+
 
 .footer {
   padding-top: 30px;
