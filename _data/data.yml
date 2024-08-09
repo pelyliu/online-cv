@@ -93,16 +93,16 @@ experiences:
 
 certifications:
       title: 获得荣誉
-      list: 1
-        - name: 2
-          start: 3
-          end: 4
-          organization: 5
-#          credentialid: 111-222  # 好像是证书编号
-          credentialurl: 6
-          credentialname: 7
+      list: 测试1
+        - name: 测试2
+          start: 测试3
+          end: 测试4
+          organization: 测试5
+          credentialid: 测试6
+          credentialurl: 测试7
+          credentialname: 测试8
           details: |
-            8
+            测试9
 
 projects:
     title: 获得荣誉
