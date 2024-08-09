@@ -53,7 +53,6 @@ p {
   }
   .profile-container {
     padding: 30px;
-    //background: darken($theme-color, 10%);
     background: rgba(0, 0, 0, 0.2);
     text-align: center;
     color: #fff;
@@ -76,7 +75,6 @@ p {
   }
 
   .avatar {
-    //used for profile image
     max-width: 100px;
     margin-bottom: 15px;
     border: 0px solid #fff;
@@ -252,6 +250,7 @@ p {
   }
 }
 
+/* ======= Skills Section ======= */
 .skillset {
   display: flex;
   flex-direction: column; /* 使技能项垂直排列 */
@@ -272,16 +271,13 @@ p {
   }
   
   .level-bar {
-    height: 12px;
-    background: $smoky-white;
+    display: none; /* 隐藏进度条容器 */
   }
   
   .level-bar-inner {
-    height: 12px;
-    background: lighten($theme-color, 15%);
+    display: none; /* 隐藏进度条内容 */
   }
 }
-
 
 .footer {
   padding-top: 30px;
@@ -295,4 +291,3 @@ p {
     color: $heart;
   }
 }
-
