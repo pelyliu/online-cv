@@ -93,8 +93,8 @@ experiences:
 
 certifications:
     title: 获得荣誉
-    list: 测试1
-      - name: 测试2
+    list:
+      - name: 测试1
         start: 测试3
         end: 测试4
         organization: 测试5
