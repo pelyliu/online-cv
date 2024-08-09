@@ -137,13 +137,23 @@ publications:
 
       - title: 中国传媒大学 志愿者联合会 品牌宣传部 干事 2021.09 - 2022.09
 
-skills:
+publications:
     title: 专业技能
+    intro: |
 
-    toolset:
-      - name: 英语水平：CET4 / CET6 / 英语可作为工作语言
-      - name: 编程能力：C / C++ / Python / Matlab / CSS
-      - name: 影视后期能力：PS / PR / AE / AU / 剪映 / Motion
-      - name: 其它技能：摄影 / 摄像 / 普通话二级甲等 / 机动车驾驶证C1 / 北京红十字会救护技能证
+    papers:
+      - title: 英语水平：CET4 / CET6 / 英语可作为工作语言
+      - title: 编程能力：C / C++ / Python / Matlab / CSS
+      - title: 影视后期能力：PS / PR / AE / AU / 剪映 / Motion
+      - title: 其它技能：摄影 / 摄像 / 普通话二级甲等 / 机动车驾驶证C1 / 北京红十字会救护技能证
+
+# skills:
+#     title: 专业技能
+
+#     toolset:
+#       - name: 英语水平：CET4 / CET6 / 英语可作为工作语言
+#       - name: 编程能力：C / C++ / Python / Matlab / CSS
+#       - name: 影视后期能力：PS / PR / AE / AU / 剪映 / Motion
+#       - name: 其它技能：摄影 / 摄像 / 普通话二级甲等 / 机动车驾驶证C1 / 北京红十字会救护技能证
 
 footer: "刘沛林 个人简历"
