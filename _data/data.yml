@@ -45,7 +45,7 @@ education:
             
           GPA：3.49 / 4.0  
             
-          专业课程：数字电视演播室技术 / 融合媒体制作与播出技术 / 融合媒体系统设计与应用 / 音频工程 / 视频测量技术 / 现代电视原理 / 数据压缩原理与应用 / 媒体数据库与云存储 等
+          专业课程：数字电视演播室技术 | 融合媒体制作与播出技术 | 融合媒体系统设计与应用 | 音频工程 | 视频测量技术 | 现代电视原理 | 数据压缩原理与应用 | 媒体数据库与云存储 等
 
       - degree: 广播电视编导（电视编辑方向）
         university: 中国传媒大学 电视学院
@@ -55,7 +55,7 @@ education:
             
           GPA：3.80 / 4.0  
             
-          专业课程：摄影技术 / 摄影构图 / 视频编辑 / 视频效果制作 / 电视影像语言 / 影视照明实践 / 电视采访报道 / 电视编导 / 电视写作 / 视听创作 / 融合新闻学 / 电视新闻学 等
+          专业课程：摄影技术 | 摄影构图 | 视频编辑 | 视频效果制作 | 电视影像语言 | 影视照明实践 | 电视采访报道 | 电视编导 | 电视写作 | 视听创作 | 融合新闻学 | 电视新闻学 等
 
 experiences:
     title: 实习经历
@@ -111,19 +111,19 @@ projects:
     assignments:
       - title: 奖学金
         # link: "#"
-        tagline: "校级二等奖学金 / 学术科研竞赛奖学金 / BIRTV奖学金 / 华创高科奖学金"
+        tagline: "校级二等奖学金 | 学术科研竞赛奖学金 | BIRTV奖学金 | 华创高科奖学金"
     
       - title: 荣誉称号
         # link: "#"
-        tagline: "校级三好学生 / 校级优秀志愿者 / 校级优秀团员"
+        tagline: "校级三好学生 | 校级优秀志愿者 | 校级优秀团员"
 
       - title: 竞赛奖项
         # link: "#"
-        tagline: "数学建模美赛M奖 / 互联网+北京市级铜奖 / 挑战杯校级三等奖"
+        tagline: "数学建模美赛M奖 | 互联网+北京市级铜奖 | 挑战杯校级三等奖"
 
       - title: 科研经历
         # link: "#"
-        tagline: "国家级大创负责人 / <a href='https://drpress.org/ojs/index.php/HSET/article/view/17061'>发表会议论文 1 篇</a>"
+        tagline: "国家级大创负责人 | <a href='https://drpress.org/ojs/index.php/HSET/article/view/17061'>发表会议论文 1 篇</a>"
 
 publications:
     title: 校园经历
@@ -144,10 +144,10 @@ publications:
 skills:
     title: 专业技能
 
-    英语水平：CET4 / CET6 / 英语可作为工作语言  
-    编程能力：C / C++ / Python / Matlab / CSS  
-    影视后期能力：PS / PR / AE / AU / 剪映 / Motion  
-    其它技能：摄影 / 摄像 / 普通话二级甲等 / 机动车驾驶证C1 / 北京红十字会救护技能证  
+    英语水平：CET4 | CET6 | 英语可作为工作语言  
+    编程能力：C | C++ | Python | Matlab | CSS  
+    影视后期能力：PS | PR | AE | AU | 剪映 | Motion  
+    其它技能：摄影 | 摄像 | 普通话二级甲等 | 机动车驾驶证C1 | 北京红十字会救护技能证  
 
     # toolset:
     #   - name: 英语水平：CET4 / CET6 / 英语可作为工作语言
