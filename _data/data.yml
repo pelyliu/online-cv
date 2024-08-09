@@ -62,31 +62,31 @@ experiences:
     info:
 
       - role: 北京益起映创文化科技有限公司（原后浪电影）
-        time: 2024.04 - 至今
+        time: "2024.04 - 至今"
         company: 新媒体运营 实习生
         # details: |
         #   略
 
       - role: 第三届一带一路国际合作高峰论坛（BRF）
-        time: 2023.10
+        time: "2023.10"
         company: 体验区（科技展示）志愿者
         # details: |
         #   略
 
       - role: 中国广播电视国际经济技术合作有限公司（CBIC）
-        time: 2023.07 - 2023.09
+        time: "2023.07 - 2023.09"
         company: 宣传助理 实习生
         # details: |
         #   略
 
       - role: 第三十届北京国际广播电影电视展览会（BIRTV2023）
-        time: 2023.08
+        time: "2023.08"
         company: 宣传助理 实习生
         # details: |
         #   略
 
       - role: 中国国际服务贸易交易会（CIFTIS）
-        time: 2022.09
+        time: "2022.09"
         company: 新闻中心 志愿者
         # details: |
         #   略
