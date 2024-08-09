@@ -92,16 +92,16 @@ experiences:
         #   略
 
 certifications:
-      title: 获得荣誉
-      list: 测试1
-        - name: 测试2
-          start: 测试3
-          end: 测试4
-          organization: 测试5
-          credentialid: 测试6
-          credentialurl: 测试7
-          credentialname: 测试8
-          details: |
+    title: 获得荣誉
+    list: 测试1
+      - name: 测试2
+        start: 测试3
+        end: 测试4
+        organization: 测试5
+        credentialid: 测试6
+        credentialurl: 测试7
+        credentialname: 测试8
+        details: |
             测试9
 
 projects:
