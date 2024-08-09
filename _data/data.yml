@@ -94,48 +94,62 @@ experiences:
 certifications:
     title: 获得荣誉
     list:
-      - name: 测试1
-        start: 测试3
-        end: 测试4
-        organization: 测试5
-        credentialid: 测试6
-        credentialurl: 测试7
-        credentialname: 测试8
+      - name: 奖学金
+        # start: 测试3
+        # end: 测试4
+        # organization: 测试5
+        # credentialid: 测试6
+        # credentialurl: 测试7
+        # credentialname: 测试8
         details: |
-            测试9
+            校级二等奖学金 / 学术科研竞赛奖学金 / BIRTV奖学金 / 华创高科奖学金
+
+      - name: 荣誉称号
+        # start: 测试3
+        # end: 测试4
+        # organization: 测试5
+        # credentialid: 测试6
+        # credentialurl: 测试7
+        # credentialname: 测试8
+        details: |
+            校级三好学生 / 校级优秀志愿者 / 校级优秀团员
+
+      - name: 竞赛奖项
+        # start: 测试3
+        # end: 测试4
+        # organization: 测试5
+        # credentialid: 测试6
+        # credentialurl: 测试7
+        # credentialname: 测试8
+        details: |
+            数学建模美赛M奖 / 互联网+北京市级铜奖 / 挑战杯校级三等奖 / 互联网+校级三等奖
+
+      - name: 科研经历
+        # start: 测试3
+        # end: 测试4
+        # organization: 测试5
+        # credentialid: 测试6
+        # credentialurl: 测试7
+        # credentialname: 测试8
+        details: |
+            国家级大创负责人 / <a href='https://drpress.org/ojs/index.php/HSET/article/view/17061'>发表会议论文 1 篇</a>
 
 projects:
-    title: 获得荣誉
+    title: 校园经历
     intro: >
 
     assignments:
-      - title: 奖学金
+      - title: 中国传媒大学 信息与通信工程学院 班长
         # link: "#"
-        tagline: "校级二等奖学金 | 学术科研竞赛奖学金 | BIRTV奖学金 | 华创高科奖学金"
+        tagline: "带领班级获得 中央广播电视总台优秀班集体 | 校级优秀班集体 | 校级优秀团支部 荣誉称号 | 2021.09 - 2025.07"
     
-      - title: 荣誉称号
+      - title: 中国传媒大学 信息与通信工程学院 团委宣传部 干事
         # link: "#"
-        tagline: "校级三好学生 | 校级优秀志愿者 | 校级优秀团员"
+        tagline: "2022.09 - 2023.09"
 
-      - title: 竞赛奖项
+      - title: 中国传媒大学 志愿者联合会 品牌宣传部 干事
         # link: "#"
-        tagline: "数学建模美赛M奖 | 互联网+北京市级铜奖 | 挑战杯校级三等奖"
-
-      - title: 科研经历
-        # link: "#"
-        tagline: "国家级大创负责人 | <a href='https://drpress.org/ojs/index.php/HSET/article/view/17061'>发表会议论文 1 篇</a>"
-
-publications:
-    title: 校园经历
-    intro: |
-
-    papers:
-      - title: 中国传媒大学 信息与通信工程学院 班长 2021.09 - 2025.07
-        authors: "带领班级获得 中央广播电视总台优秀班集体 | 校级优秀班集体 | 校级优秀团支部 荣誉称号"
-
-      - title: 中国传媒大学 信息与通信工程学院 团委宣传部 干事 2022.09 - 2023.09
-
-      - title: 中国传媒大学 志愿者联合会 品牌宣传部 干事 2021.09 - 2022.09
+        tagline: "2021.09 - 2022.09"
 
 publications:
     title: 专业技能
