@@ -68,7 +68,7 @@ experiences:
         #   略
 
       - role: 第三届一带一路国际合作高峰论坛（BRF）
-        time: 2023.10.15 - 10.18
+        time: 2023.10
         company: 体验区（科技展示）志愿者
         # details: |
         #   略
@@ -80,13 +80,13 @@ experiences:
         #   略
 
       - role: 第三十届北京国际广播电影电视展览会（BIRTV2023）
-        time: 2023.08.23 - 08.26
+        time: 2023.08
         company: 宣传助理 实习生
         # details: |
         #   略
 
       - role: 中国国际服务贸易交易会（CIFTIS）
-        time: 2022.09.01 - 09.05
+        time: 2022.09
         company: 新闻中心 志愿者
         # details: |
         #   略
@@ -125,30 +125,26 @@ projects:
     title: 获得荣誉
     intro: >
 
-    papers:
+    assignments:
       - title: 奖学金
         # link: "#"
-        authors: 校级二等奖学金 / 学术科研竞赛奖学金 / BIRTV奖学金 / 华创高科奖学金
+        tagline: "校级二等奖学金 / 学术科研竞赛奖学金 / BIRTV奖学金 / 华创高科奖学金"
     
       - title: 荣誉称号
         # link: "#"
-        authors: 校级三好学生 / 校级优秀志愿者 / 校级优秀团员
+        tagline: "校级三好学生 / 校级优秀志愿者 / 校级优秀团员"
 
       - title: 竞赛奖项
         # link: "#"
-        authors: 数学建模美赛M奖 / 互联网+北京市级铜奖 / 挑战杯校级三等奖
+        tagline: "数学建模美赛M奖 / 互联网+北京市级铜奖 / 挑战杯校级三等奖"
 
       - title: 科研经历
         # link: "#"
-        authors: 国家级大创负责人 / <a href='https://drpress.org/ojs/index.php/HSET/article/view/17061'>发表会议论文 1 篇</a>
+        tagline: "国家级大创负责人 / <a href='https://drpress.org/ojs/index.php/HSET/article/view/17061'>发表会议论文 1 篇</a>"
 
 skills:
     title: 专业技能
-    assignments:
-      - title: 英语水平
-        # link: "#"
-        authors: CET4 / CET6
-        
+
     # toolset:
     #   - name: PS / PR / AE / AU / 剪映 / Motion
     #     level: 90%
