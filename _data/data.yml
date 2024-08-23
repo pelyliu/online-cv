@@ -15,7 +15,7 @@ sidebar:
     # pdf: # 如果有pdf版的简历，可以在这里放简历的下载链接，或者直接放 {https://你的简历页面}/print
 
     interests:
-     title: 中共预备党员<br>  <br>现居北京 来自山东  
+     title: 中共预备党员<br>  <br>现居北京 家乡山东  
     #  info:
     #    - item: 优秀学生干部
     #      link:
@@ -69,7 +69,7 @@ experiences:
 
       - role: 第三届一带一路国际合作高峰论坛（BRF）
         time: "2023.10"
-        company: 体验区（科技展示）志愿者
+        company: 体验区（科技展示）中英双语讲解志愿者
         # details: |
         #   略
 
@@ -87,7 +87,7 @@ experiences:
 
       - role: 中国国际服务贸易交易会（CIFTIS）
         time: "2022.09"
-        company: 新闻中心 志愿者
+        company: 新闻中心 媒体保障志愿者
         # details: |
         #   略
 
@@ -122,7 +122,7 @@ certifications:
         # credentialurl: 测试7
         # credentialname: 测试8
         details: |
-            数学建模美赛M奖 / 互联网+北京市级铜奖 / 挑战杯校级三等奖 / 互联网+校级三等奖
+            数学建模美赛M奖 / 互联网+北京市级铜奖 / 互联网+校级二等奖 / 挑战杯校级三等奖
 
       - name: 科研经历
         # start: 测试3
@@ -156,7 +156,7 @@ publications:
     intro: |
 
     papers:
-      - title: 英语水平：CET4 / CET6 / 英语可作为工作语言
+      - title: 英语水平：CET6 / CET4 / 英语可作为工作语言
       - title: 编程能力：C / C++ / Python / Matlab / CSS
       - title: 影视后期能力：PS / PR / AE / AU / 剪映 / Motion
       - title: 其它技能：摄影 / 摄像 / 普通话二级甲等 / 机动车驾驶证C1 / 北京红十字会救护技能证
