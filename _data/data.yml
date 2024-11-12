@@ -45,31 +45,31 @@ education:
 experiences:
     title: 实习经历
     info:
-      - role: 北京益起映创文化科技有限公司（原后浪电影）
-        time: "2024.04 - 至今"
+      - role: 北京益起映创文化科技有限公司
+        time: "2024.04 - 2025.02"
         company: 新媒体运营 实习生
         # details: |
         #   略
 
-      - role: 第三届一带一路国际合作高峰论坛（BRF）
+      - role: 第三届一带一路国际合作高峰论坛
         time: "2023.10"
         company: 体验区（科技展示）中英双语讲解志愿者
         # details: |
         #   略
 
-      - role: 中国广播电视国际经济技术合作有限公司（CBIC）
+      - role: 中国广播电视国际经济技术合作有限公司
         time: "2023.07 - 2023.09"
         company: 宣传助理 实习生
         # details: |
         #   略
 
-      - role: 第三十届北京国际广播电影电视展览会（BIRTV2023）
+      - role: 第三十届北京国际广播电影电视展览会
         time: "2023.08"
         company: 宣传助理 实习生
         # details: |
         #   略
 
-      - role: 中国国际服务贸易交易会（CIFTIS）
+      - role: 中国国际服务贸易交易会
         time: "2022.09"
         company: 新闻中心 媒体保障志愿者
         # details: |
@@ -79,44 +79,20 @@ certifications:
     title: 获得荣誉
     list:
       - name: 奖学金
-        # start: 测试3
-        # end: 测试4
-        # organization: 测试5
-        # credentialid: 测试6
-        # credentialurl: 测试7
-        # credentialname: 测试8
         details: |
-            校级二等奖学金 / 学术科研竞赛奖学金 / BIRTV奖学金 / 华创高科奖学金
+            校级二等奖学金 / 校级三等奖学金 / 学术科研竞赛奖学金 / 社会实践奖学金 / BIRTV奖学金 / 华创高科奖学金
 
       - name: 荣誉称号
-        # start: 测试3
-        # end: 测试4
-        # organization: 测试5
-        # credentialid: 测试6
-        # credentialurl: 测试7
-        # credentialname: 测试8
         details: |
             校级三好学生 / 校级优秀志愿者 / 校级优秀团员
 
       - name: 竞赛奖项
-        # start: 测试3
-        # end: 测试4
-        # organization: 测试5
-        # credentialid: 测试6
-        # credentialurl: 测试7
-        # credentialname: 测试8
         details: |
-            数学建模美赛M奖 / 互联网+北京市级铜奖 / 互联网+校级二等奖 / 挑战杯校级三等奖
+            美国大学生数学建模竞赛M奖 / 互联网+北京市级铜奖
 
       - name: 科研经历
-        # start: 测试3
-        # end: 测试4
-        # organization: 测试5
-        # credentialid: 测试6
-        # credentialurl: 测试7
-        # credentialname: 测试8
         details: |
-            国家级大创负责人 / <a href='https://drpress.org/ojs/index.php/HSET/article/view/17061'>发表会议论文 1 篇</a>
+            大学生创新训练计划国家级项目负责人
 
 projects:
     title: 校园经历
@@ -125,7 +101,7 @@ projects:
     assignments:
       - title: 中国传媒大学 信息与通信工程学院 班长
         # link: "#"
-        tagline: "带领班级获得 中央广播电视总台优秀班集体 | 校级优秀班集体 | 校级优秀团支部 荣誉称号 | 2021.09 - 2025.07"
+        tagline: "获得 中央广播电视总台优秀班集体 | 校级优秀班集体 | 校级优秀团支部 荣誉称号 | 2021.09 - 2025.07"
     
       - title: 中国传媒大学 信息与通信工程学院 团委宣传部 干事
         # link: "#"
@@ -138,20 +114,10 @@ projects:
 publications:
     title: 专业技能
     intro: |
-
     papers:
       - title: 英语水平：CET6 / CET4 / 英语可作为工作语言
-      - title: 编程能力：C / C++ / Python / Matlab / CSS
+      - title: 编程能力：Python / C / C++ / Matlab / CSS
       - title: 影视后期能力：PS / PR / AE / AU / 剪映 / Motion
-      - title: 其它技能：摄影 / 摄像 / 普通话二级甲等 / 机动车驾驶证C1 / 北京红十字会救护技能证
-
-# skills:
-#     title: 专业技能
-
-#     toolset:
-#       - name: 英语水平：CET4 / CET6 / 英语可作为工作语言
-#       - name: 编程能力：C / C++ / Python / Matlab / CSS
-#       - name: 影视后期能力：PS / PR / AE / AU / 剪映 / Motion
-#       - name: 其它技能：摄影 / 摄像 / 普通话二级甲等 / 机动车驾驶证C1 / 北京红十字会救护技能证
+      - title: 其它技能：摄影 / 摄像 / 普通话二级甲等 / 机动车驾驶证C1
 
 footer: "刘沛林 个人简历"
