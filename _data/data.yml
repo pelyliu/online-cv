@@ -4,7 +4,7 @@ sidebar:
 
     # 基本信息
     name: 刘沛林  # 你的姓名
-    tagline: 中国传媒大学 大四 保研
+    tagline: 大四 保研人工智能专业
     avatar: square_photo.jpg
 
     email: pelyliu@126.com
@@ -88,11 +88,11 @@ certifications:
 
       - name: 竞赛奖项
         details: |
-            美国大学生数学建模竞赛M奖 / 互联网+北京市级铜奖
+            数学建模美赛M奖 / 互联网+北京市级铜奖
 
       - name: 科研经历
         details: |
-            大学生创新训练计划国家级项目负责人
+            国家级大创项目负责人
 
 projects:
     title: 校园经历
@@ -115,9 +115,9 @@ publications:
     title: 专业技能
     intro: |
     papers:
-      - title: 英语水平：CET6 / CET4 / 英语可作为工作语言
-      - title: 编程能力：Python / C / C++ / Matlab / CSS
-      - title: 影视后期能力：PS / PR / AE / AU / 剪映 / Motion
+      - title: 英语水平：英语四六级 / 英语可作为工作语言
+      - title: 编程能力：Python / C / C++ / MATLAB / CSS
+      - title: 影像后期能力：PS / PR / AE / AU / 剪映 / Motion
       - title: 其它技能：摄影 / 摄像 / 普通话二级甲等 / 机动车驾驶证C1
 
 footer: "刘沛林 个人简历"
