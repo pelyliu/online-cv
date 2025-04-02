@@ -4,7 +4,7 @@ sidebar:
 
     # 基本信息
     name: 刘沛林  # 你的姓名
-    tagline: 中国传媒大学 本科毕业 保研
+    # tagline: 中国传媒大学 本科毕业 保研
     avatar: square_photo.jpg
 
     email: pelyliu@126.com
@@ -27,8 +27,7 @@ education:
         time: 2025.09 - 2027.07
         details: |
           学历层次：硕士研究生  
-            
-          GPA：3.49 / 4.0  
+    
       - degree: 广播电视工程
         university: 中国传媒大学 信息与通信工程学院
         time: 2021.09 - 2025.07
@@ -48,9 +47,9 @@ education:
 experiences:
     title: 实习经历
     info:
-      - role: 北京数驱互娱科技有限公司
+      - role: 北京数驱互娱科技有限公司（加勒比熊猫）
         time: "2025.03 - 2025.09"
-        company: AI产品经理 实习生
+        company: AI 产品经理 实习生
         # details: |
         #   略
 
@@ -59,7 +58,7 @@ certifications:
     list:
       - name: 奖学金
         details: |
-            校级二等奖学金 / 校级三等奖学金 / 学术科研竞赛奖学金 / 社会实践奖学金 / BIRTV奖学金 / 华创高科奖学金
+            校级二等奖学金 / 校级三等奖学金 / 学术科研竞赛奖学金 / 社会实践奖学金 / BIRTV 奖学金 / 华创高科奖学金
 
       - name: 荣誉称号
         details: |
@@ -67,7 +66,7 @@ certifications:
 
       - name: 竞赛奖项
         details: |
-            数学建模美赛M奖 / 互联网+北京市级铜奖
+            数学建模美赛M奖 / 互联网+ 北京市级铜奖
 
       - name: 科研经历
         details: |
@@ -89,6 +88,6 @@ publications:
       - title: 英语水平：英语六级（英语可作为工作语言）
       - title: 编程能力：Python / C / C++ / MATLAB / CSS
       - title: 影像后期能力：PS / PR / AE / AU / 剪映 / Motion
-      - title: 其它技能：摄影 / 摄像 / 普通话二级甲等 / 机动车驾驶证C1
+      - title: 其它技能：摄影 / 摄像 / 普通话二级甲等 / 机动车驾驶证 C1
 
 footer: "刘沛林 个人简历"
