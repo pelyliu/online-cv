@@ -4,7 +4,7 @@ sidebar:
 
     # 基本信息
     name: 刘沛林  # 你的姓名
-    tagline: 中国传媒大学 大四 保研
+    tagline: 中国传媒大学 本科毕业 保研
     avatar: square_photo.jpg
 
     email: pelyliu@126.com
@@ -14,7 +14,7 @@ sidebar:
     # pdf:
 
     interests:
-     title: 中共党员<br>  <br>现居北京 籍贯山东  
+     title: 中共党员<br>  <br>现居北京
 
 ##### 边栏结束 #####
 
@@ -22,6 +22,13 @@ sidebar:
 education:
     title: 教育背景
     info:
+      - degree: 人工智能
+        university: 中国传媒大学 信息与通信工程学院
+        time: 2025.09 - 2027.07
+        details: |
+          学历层次：硕士研究生  
+            
+          GPA：3.49 / 4.0  
       - degree: 广播电视工程
         university: 中国传媒大学 信息与通信工程学院
         time: 2021.09 - 2025.07
@@ -29,49 +36,21 @@ education:
           学历层次：本科学位  
             
           GPA：3.49 / 4.0  
-            
-          专业课程：数字电视演播室技术 / 融合媒体制作与播出技术 / 融合媒体系统设计与应用 / 音频工程 / 视频测量技术 / 现代电视原理 / 数据压缩原理与应用 / 媒体数据库与云存储
 
       - degree: 广播电视编导（电视编辑方向）
         university: 中国传媒大学 电视学院
         time: 2022.09 - 2024.07
         details: |
-          学历层次：辅修学位  
+          学历层次：辅修本科学位  
             
           GPA：3.80 / 4.0  
-            
-          专业课程：摄影技术 / 摄影构图 / 视频编辑 / 视频效果制作 / 电视影像语言 / 影视照明实践 / 电视采访报道 / 电视编导 / 电视写作 / 视听创作 / 融合新闻学 / 电视新闻学
 
 experiences:
     title: 实习经历
     info:
-      - role: 北京益起映创文化科技有限公司
-        time: "2024.04 - 2025.02"
-        company: 新媒体运营 实习生
-        # details: |
-        #   略
-
-      - role: 第三届一带一路国际合作高峰论坛
-        time: "2023.10"
-        company: 体验区（科技展示）中英双语讲解志愿者
-        # details: |
-        #   略
-
-      - role: 中国广播电视国际经济技术合作有限公司
-        time: "2023.07 - 2023.09"
-        company: 宣传助理 实习生
-        # details: |
-        #   略
-
-      - role: 第三十届北京国际广播电影电视展览会
-        time: "2023.08"
-        company: 宣传助理 实习生
-        # details: |
-        #   略
-
-      - role: 中国国际服务贸易交易会
-        time: "2022.09"
-        company: 新闻中心 媒体保障志愿者
+      - role: 北京数驱互娱科技有限公司
+        time: "2025.03 - 2025.09"
+        company: AI产品经理 实习生
         # details: |
         #   略
 
@@ -84,7 +63,7 @@ certifications:
 
       - name: 荣誉称号
         details: |
-            校级三好学生 / 校级优秀志愿者 / 校级优秀团员
+            毕业生优秀学生干部 / 毕业生三好学生
 
       - name: 竞赛奖项
         details: |
@@ -99,23 +78,15 @@ projects:
     intro: >
 
     assignments:
-      - title: 中国传媒大学 信息与通信工程学院 班长
+      - title: 中国传媒大学 信息与通信工程学院 本科班 班长
         # link: "#"
-        tagline: "获得 中央广播电视总台优秀班集体 | 校级优秀班集体 | 校级优秀团支部 荣誉称号 | 2021.09 - 2025.07"
-    
-      - title: 中国传媒大学 信息与通信工程学院 团委宣传部 干事
-        # link: "#"
-        tagline: "2022.09 - 2023.09"
-
-      - title: 中国传媒大学 志愿者联合会 品牌宣传部 干事
-        # link: "#"
-        tagline: "2021.09 - 2022.09"
+        # tagline: ""
 
 publications:
     title: 专业技能
     intro: |
     papers:
-      - title: 英语水平：英语四六级 / 英语可作为工作语言
+      - title: 英语水平：英语六级（英语可作为工作语言）
       - title: 编程能力：Python / C / C++ / MATLAB / CSS
       - title: 影像后期能力：PS / PR / AE / AU / 剪映 / Motion
       - title: 其它技能：摄影 / 摄像 / 普通话二级甲等 / 机动车驾驶证C1
